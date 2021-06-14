@@ -1,0 +1,23 @@
+
+ 
+.mainmust:after {
+    content:"*";
+    color:red;
+    
+  }
+  .form-group{
+  
+    width: 500px;
+    border: 8px solid green;
+    padding: 50px;
+    margin: 20px;
+  
+  }
+  .form{
+    text-align:center
+  }
+  
+  .main{
+    
+    font-weight:900;
+  }s
